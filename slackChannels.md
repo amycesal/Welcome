@@ -188,6 +188,7 @@ The location channels currently in existance are as follows:
 - **location-nyc**, moderated by @Jason Forrest, @Nathan Brown
 - **location-seattle**, moderated by @Jim Vallandingham, @Amber Thomas
 - **location-uk**, moderated by @Neil Richards, TKTK
+- **location-uk**, moderated by @Alan Wilson, @Sarah Kay Miller
 
 ## share-critique
 **Purpose:** Post work (whole apps or pieces) with the expectation that members will critically engage with the work and challenge or ask or explanation about your decisions. Secondarily, promote conversation about how to do critique in dataviz effectively. For best results, use the following format when posting information about pieces:
