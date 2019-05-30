@@ -183,6 +183,7 @@ The location channels currently in existance are as follows:
 - **location-canada**, moderated by @Greg, @cjlm, @Kushal
 - **location-chicago**, moderated by @Mollz, @Nic Moe, @Princess Ojiaku
 - **location-dc**, moderated by @Jacque Schrag, @Alli Torban
+- **location-denver**, moderated by@Jack Marston, @Sarah Reed
 - **location-europe**, moderated by @duncangeere, @Nussaibah
 - **location-newengland**, moderated by @Yvonne, @Ben Tang, @thecristen
 - **location-nyc**, moderated by @Jason Forrest, @Nathan Brown
