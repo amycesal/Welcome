@@ -20,6 +20,11 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Moderators:** @Carl Manaster, @duncangeere
 
+## -journal-club
+**Purpose:** Journal Club for reading and discussing research papers related to data visualization.
+
+**Moderators:** @Tricia Aung and a rotating host.
+
 ## -topics-in-data-viz
 
 **Purpose:** Threaded discussions based on a selected topic that’s meant to be generally appealing to the field at large then compiled into a medium article. Topics change every two weeks. Topic ideas [here](https://docs.google.com/document/d/1MwgipaG25XLohM-dXdOl7R_RrGZV14CqOciehQ_wHoE/edit).
