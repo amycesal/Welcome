@@ -244,6 +244,12 @@ The location channels currently in existance are as follows:
 
 **Moderators:** @Wendy Small, @jameslytle
 
+## topic-data-physicalization
+
+**Purpose:** Discussing and sharing physical visualizations of data
+
+**Moderators:** @northernjamie, @Lisa C @Brandon R Hecker @Sung Kim
+
 ## topic-data-processing
 
 **Purpose:** A place to discuss data processing
